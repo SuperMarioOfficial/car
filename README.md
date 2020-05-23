@@ -9,5 +9,5 @@
 ![](https://cnet4.cbsistatic.com/img/YjfZEEX5WbH26M-KvHVljdZ4IDE=/940x0/2019/11/21/48e185f6-1e35-44bc-b255-084eab5dc7a4/toyota-rav4-prime-001.jpg)
 |Model|width,length, Hight,Clearance|Number of sits|Max Cargo Capacity|AEB,Speed-Ass,Lane-Supp|CO2 MPG|Battery size|EV range|Gas miles|
 |-|-|-|-|-|-|-|-|-|
-|Toyota rav 4 PHEV|[1.8,4.6,1.7](https://www.automobiledimension.com/model/toyota/rav4)|5|69.8 cubic feet|None|102 g/km 2.6l/100km (90 mpg)|17.8 kWh|39 miles, 60 km (37 miles)|507.5 highway miles|
+|Toyota rav 4 PHEV|[1.8,4.6,1.7](https://www.automobiledimension.com/model/toyota/rav4)|5|1982.18l 69.8 cubic feet|None|102 g/km 2.6l/100km (90 mpg)|17.8 kWh|39 miles, 60 km (37 miles)|507.5 highway miles|
 |![](https://www.howardsgroup.co.uk/assets/media/toyotarav4dashinterior_1.jpg)|![](https://www.howardsgroup.co.uk/assets/media/toyotarav4backseatsinterior_1.jpg)|
